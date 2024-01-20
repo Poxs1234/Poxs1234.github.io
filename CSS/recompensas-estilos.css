@@ -1,0 +1,49 @@
+body{
+    background-color: lightgreen;
+}
+
+h1{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border-radius: 12px;
+    width: auto;
+}
+a:hover{
+    background-color: aqua;
+    color: black;
+
+}
+
+footer{
+    background: black;
+    text-align: center;
+    color: aqua;
+}
+
+#famr1 th img{
+    border: solid black;
+    border-radius: 3em;
+}
+
+h2{
+    color: aqua;
+    background-color: black;
+    font: 100;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    font-size: larger;
+    color: blue;
+}
+
+

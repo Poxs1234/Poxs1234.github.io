@@ -1,0 +1,79 @@
+body{
+    background-color: lightgreen;
+}
+
+h1{
+    color: red;
+
+}
+
+h2{
+    background: black;
+    margin: 0px;
+    padding: 8px;
+    text-align: center;
+    color: aqua;
+}
+form{
+    background-color: white;
+    width: 50%;
+    border: 2px solid black;
+    padding: 50px;
+}
+
+label{
+    font-size: 20px;
+    
+}
+input, textarea{
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
+input[type="submit"]{
+    width: 50%;
+    margin-bottom: 0px;
+    border: none;
+    background: black;
+    color: white;
+    border-radius: 2em;
+}
+
+input[type="submit"]:hover{
+    background-color: aquamarine;
+    color: black;
+}
+
+header{
+    background: black;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    color: aqua;
+}
+footer{
+    background: black;
+    text-align: center;
+    color: aqua;
+}
+
+h3{
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border-radius: 12px;
+}
+a:hover{
+    background-color: aqua;
+    color: black;
+
+}

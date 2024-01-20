@@ -1,0 +1,55 @@
+body{
+    background-color: lightgreen;
+}
+
+h1{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border-radius: 12px;
+    width: auto;
+}
+a:hover{
+    background-color: aqua;
+    color: black;
+
+}
+
+footer{
+    background: black;
+    text-align: center;
+    color: aqua;
+}
+
+th{
+    color: black;
+    font-size: 20px;
+}
+
+h4{
+    color: red;
+    font-size: 20px;
+}
+
+h2{
+    color: aqua;
+    background-color: black;
+
+}
+
+p{
+    font-size: 20px;
+    
+}
+
+#farm1 th img{
+    border: solid ;
+    border-radius: 3em;
+}
